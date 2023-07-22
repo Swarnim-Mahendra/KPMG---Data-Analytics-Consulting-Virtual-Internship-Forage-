@@ -1,0 +1,6 @@
+1). Draft an email to the client identifying the data quality issues and strategies to mitigate these issues. Refer to the ‘Data Quality Framework Table’ and resources below for criteria and dimensions which you should consider.
+(Data Cleaning and Pre-processing)
+
+2). Prepare a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modeling, results interpretation, and reporting. Prepare a PPT for the mentioned tasks.
+
+3). Develop a dashboard that can be presented to the client. Display your data summary and results of the analysis in a dashboard 
